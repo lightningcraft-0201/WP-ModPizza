@@ -4,11 +4,11 @@ Welcome to the MOD Pizza WordPress Project repository! This project represents t
 
 **Live Site URL**: [MOD Pizza](https://modpizza.com)
 
-![MOD Pizza](preview.png)
+![MOD Pizza](https://github.com/DevRex-0201/WP-ModPizza/blob/main/img/home.png)
 
 ## Our Beginning
 
-In 2008, Scott and Ally Svenson envisioned a pizza place that offered more than just pies. They wanted to create a space where people could enjoy pizza their way, with speed and style. But they knew the real magic was in the people who served the communities — the MOD Squad. By nurturing their employees, they ensured exceptional customer service and a thriving business. This commitment to people, opportunity, belonging, and community has defined MOD Pizza for the past 13 years.
+In 2008, Scott and Ally Svenson envisioned a pizza place that offered more than just pies. They wanted to create a space where people could enjoy pizza their way, with speed and style. But they knew the real magic was in the people who served the communities â€” the MOD Squad. By nurturing their employees, they ensured exceptional customer service and a thriving business. This commitment to people, opportunity, belonging, and community has defined MOD Pizza for the past 13 years.
 
 ## Project Technologies
 
@@ -18,7 +18,7 @@ In 2008, Scott and Ally Svenson envisioned a pizza place that offered more than 
 - **JQuery**: A fast, small, and feature-rich JavaScript library to enhance user interactions.
 - **Figma**: Utilized for design, ensuring an intuitive and visually appealing user interface.
 
-![Figma Design](figma.png)
+![Figma Design](https://github.com/DevRex-0201/WP-ModPizza/blob/main/img/Figma_Pizza%20Allocation.png)
 
 ## Installation and Setup
 
