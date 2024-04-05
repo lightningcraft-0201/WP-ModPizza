@@ -4,7 +4,7 @@ Welcome to the MOD Pizza WordPress Project repository! This project represents t
 
 **Live Site URL**: [MOD Pizza](https://modpizza.com)
 
-![MOD Pizza](https://github.com/DevRex-0201/WP-ModPizza/blob/main/img/home.png)
+![MOD Pizza](https://github.com/DevRex-0201/Project-Images/blob/main/web/WP-ModPizza-Preview.jpeg)
 
 ## Our Beginning
 
@@ -18,7 +18,7 @@ In 2008, Scott and Ally Svenson envisioned a pizza place that offered more than 
 - **JQuery**: A fast, small, and feature-rich JavaScript library to enhance user interactions.
 - **Figma**: Utilized for design, ensuring an intuitive and visually appealing user interface.
 
-![Figma Design](https://github.com/DevRex-0201/WP-ModPizza/blob/main/img/Figma_Pizza%20Allocation.png)
+![Figma Design](https://github.com/DevRex-0201/Project-Images/blob/main/web/WP-ModPizza-Design.jpeg)
 
 ## Installation and Setup
 
